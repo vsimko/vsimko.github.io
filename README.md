@@ -5,6 +5,7 @@ before I migrate completely...
 
  - [biggis](http://biggis-project.eu/) : Project that I'm coordinating till 2018.
  - [500px](https://500px.com/ViliamSimko) : My 500px profile as a photographer.
+ - [cadface](https://www.cadface.com/home) : Co-founded an interior design studio in Prague.
 
 ## selected github repos
  - [corrplot](https://github.com/vsimko/corrplot) : I'm a co-author of this popular R package useful for data exploration and visualization.
