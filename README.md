@@ -17,7 +17,7 @@ before I migrate completely...
 
 ## academic career
  - [scholar](https://scholar.google.de/citations?user=Koj0QgMAAAAJ) : Overview of my scientific contributions (google scholar)
+ - [fzi-ipe](http://www.fzi.de/en/about-us/organisation/research-divisions/ipe/) : Our department at FZI (since 2015)
+ - [kit-ipd-sdq](https://sdq.ipd.kit.edu/people/) : The group of Prof. Ralf Reussner, there I was a postdoc in 2013-2015
  - [d3s](http://d3s.mff.cuni.cz/) : I studied PhD at D3S (Charles Uni. in Prague) in 2009-2013
  - [d3s-pubs](http://d3s.mff.cuni.cz/publications/?author=simko&full) : Publications at D3S 
- - [kit-ipd-sdq](https://sdq.ipd.kit.edu/people/) : The group of Prof. Ralf Reussner, there I was a postdoc in 2013-2015
- - [fzi-ipe](http://www.fzi.de/en/about-us/organisation/research-divisions/ipe/) : Our department at FZI (since 2015)
